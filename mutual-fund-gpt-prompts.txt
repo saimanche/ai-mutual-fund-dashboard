@@ -1,0 +1,8 @@
+Prompt 1:
+"Summarize the top 5 Indian mutual funds based on 3-year performance, risk, and consistency. Write it in plain English so a beginner investor can understand."
+
+Prompt 2:
+"Analyze which fund category performed best between 2021–2024 using return and volatility metrics. Include one sentence of investor advice."
+
+Prompt 3:
+"Compare active vs passive mutual funds using Sharpe ratio and drawdown. Recommend which is safer for risk-averse investors."
